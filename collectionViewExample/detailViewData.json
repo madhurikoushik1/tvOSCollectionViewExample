@@ -1,0 +1,82 @@
+[
+	{	
+		"animal":{
+			"heading": "Cheetah Cub",
+			"details": "Young cubs grow a thick yellow-gray coat on their backs called a mantle. The mantle protects the cub from the sun and rain and helps camouflage it in the shadows. It also makes the cub resemble a honey badger, which is a small feisty carnivore that most predators leave alone. The mantle starts disappearing when the cub is around three months old and thins to a mane at around two years.",
+			"image1": "babyCheetah1.jpg",
+            "image2": "babyCheetah2.jpg",
+            "image3": "babyCheetah3.jpg",
+            "image4": "babyCheetah4.jpg"
+		}
+	},
+	{
+		"animal":{
+			"heading": "Elephant Calf",
+            "details": "Weighing up to 6000 kg (6.6 tons) and measuring up to 3.3 m (10 ft.) at the shoulder, the African elephant is the world’s largest land mammal. It is characterized by its highly dexterous trunk, long curved tusks, and massive ears. A combination of the upper lip and nose, an African elephant’s trunk is extremely versatile. Elephants use their trunk for smelling, breathing, detecting vibrations, caressing their young, sucking up water, and grasping objects. The tip of their trunk is comprised of two opposable extensions, or fingers, which allow for extreme dexterity.",
+			"image1": "babyElephant1.jpg",
+            "image2": "babyElephant2.jpg",
+            "image3": "babyElephant3.jpg",
+            "image4": "babyElephant4.jpg"
+		}
+	},
+	{
+		"animal":{
+			"heading": "Baby Giraffe",
+            "details": "At an average height of around 5 m (16-18 ft.), the giraffe is the tallest land animal in the world. Characterized by its long legs, long neck, and distinctive spotted pattern, many people first believed the giraffe was a cross between a leopard and a camel, which is reflected in its scientific name, Giraffa camelopardalis.",
+			"image1": "babyGiraffe1.jpg",
+            "image2": "babyGiraffe2.jpg",
+            "image3": "babyGiraffe3.jpg",
+            "image4": "babyGiraffe4.jpg"
+		}
+	},
+	{
+		"animal":{
+			"heading": "Baby Panda",
+            "details": "As China’s unofficial mascot and the symbol of the World Wildlife Fund, the giant panda is one of the most beloved animals in the world. It is also one of the more endangered species in the world, with only about 1000-2000 living in the wild. Conservation efforts and breeding programs are currently in place to restore panda populations to their native habitat in the mountain forests of southwest China.",
+			"image1": "babyPanda1.jpg",
+            "image2": "babyPanda2.jpg",
+            "image3": "babyPanda3.jpg",
+            "image4": "babyPanda4.jpg"
+		}
+	},
+	{
+		"animal":{
+			"heading": "Baby Sea Otter",
+            "details": "Sea Otters are one of the few animals that use tools. They mainly use rocks, but have been seen using glass soda bottles and cement blocks. Newborn pups cannot sink or dive. Sea Otters have built in pockets under their arms. A group of Sea Otters resting together is called a raft. Sea Otters are the only marine mammal without a layer of blubber (fat). Sea Otters’ fur has 10x # of hairs per square inch than we have on our entire head. (humans 100,000; otters 1,000,000). Sea Otters’ teeth are strong enough to bite through the spines of a sea urchin, or crunch a clam shell open. Wild adult Sea Otters eat 25% or more of their body weight a day, or more than 12 pounds of seafood. A 150 lb human would need to eat 37 lbs of food a day! Sea Otters’ diets can consist of: crabs, mussels, clams, scallops, abalone, sea urchins, octopus, squid, snails, sea stars, and fat innkeeper worms.",
+			"image1": "babySeaOtter1.jpg",
+            "image2": "babySeaOtter2.jpg",
+            "image3": "babySeaOtter3.jpg",
+            "image4": "babySeaOtter4.jpg"
+		}
+	},
+	{
+		"animal":{
+			"heading": "Tiger Cub",
+            "details": "Tigers are the largest members of the cat family and are renowned for their power and strength. The tiger is capable of killing animals over twice its size; it is one of nature’s most feared predators. Like its ancestor, the sabre-tooth cat, the tiger relies heavily on its powerful teeth for survival. If it loses its canines (tearing teeth) through injury or old age, it can no longer kill and is likely to starve to death. Tigers live alone and aggressively scent-mark large territories (up to 100sq km in size) to keep their rivals away. They are powerful nocturnal hunters that travel many miles to find buffalo, deer, wild pigs, and other large mammals. A Bengal tiger can eat 21kg of meat in a night and can kill the equivalent of 30 buffaloes a year.",
+			"image1": "babyTiger1.jpg",
+            "image2": "babyTiger2.jpg",
+            "image3": "babyTiger3.jpg",
+            "image4": "babyTiger4.jpg"
+		}
+	},
+	{
+		"animal":{
+			"heading": "Kitten",
+			"details": "Kittens eyes open at around 1 week of age, but they can’t see or hear clearly until they are 2-3 weeks old. This makes them completely dependent on mom for their tiny little lives. Kittens conserve their energy by sleeping an average of 18 hours a day! That gives them plenty of fuel for growing strong and quickly into the adult cats we know so well. Even more interesting is the fact that a certain growth hormone is only released during sleep, which is why they must rest to grow.Even newborn kittens can purr and can often be heard doing so while they’re nursing or their mothers are cleaning them. While their squeaks and squeals are much more obvious, if you listen closely you’ll hear their content little motors running.Kittens can be right- or left-pawed, the same way people are right- or left-handed. If you watch closely, you’ll be able to determine whether your kitten uses his right or left paw when checking out new things.",
+			"image1": "kitten1.jpeg",
+            "image2": "kitten2.jpg",
+            "image3": "kitten3.jpg",
+            "image4": "kitten4.jpg"
+		}
+	},
+	{
+		"animal":{
+			"heading": "Puppy",
+            "details": "An adult dog has 42 teeth. A dog’s sense of smell is more than 1 million times stronger than that of a person. More than 1 in 3 families in the United States owns a dog. Spaying or neutering your dog can help prevent certain types of cancer. If never spayed or neutered, a pair of dogs can produce 66,000 puppies in 6 years. A dog’s sense of hearing is more than 10 times more accurate than that of a person. The average dog can run about 19 miles per hour at full speed. Dogs are mentioned 14 times in the Bible.  A dog’s nose print is one of a kind, very similar to a person’s fingerprint. The average body temperature for a dog is 101.2. With an average lifespan of just over 11 years, the typical dog costs $13,500. The only sweat glands a dog has are between its toes. Dogs are omnivorous; they need to eat more than just meat. Dogs have twice as many ear muscles as people. Dogs will be submissive to anyone they feel is higher up in the pack. People have been keeping dogs for pets for 12,000 years. A female dog carries her puppies for about 60 days before they are born.",
+			"image1": "puppy1.jpg",
+            "image2": "puppy2.jpg",
+            "image3": "puppy3.jpg",
+            "image4": "puppy4.jpg"
+		}
+	}
+]
